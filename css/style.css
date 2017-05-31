@@ -3849,7 +3849,7 @@ body.mini-navbar .branding {
   display: none;
 }
 img.circle-border {
-  border: 6px solid #FFFFFF;
+  border: 6px solid #fafafa;
   border-radius: 50%;
 }
 .branding {
@@ -4647,8 +4647,8 @@ body.mini-navbar.fixed-sidebar .logo-element {
   text-align: center;
 }
 .contact-box.center-version > a img {
-  width: 80px;
-  height: 80px;
+  width: 150px;
+  height: 150px;
   margin-top: 10px;
   margin-bottom: 10px;
 }
