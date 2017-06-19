@@ -1069,7 +1069,7 @@ button.dim:active:before {
 .label {
   background-color: #d1dade;
   color: #5e5e5e;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif ;
   font-weight: 600;
   padding: 3px 8px;
   text-shadow: none;
@@ -1081,7 +1081,7 @@ button.dim:active:before {
 .badge {
   background-color: #d1dade;
   color: #5e5e5e;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif ;
   font-size: 11px;
   font-weight: 600;
   padding-bottom: 4px;
@@ -1169,7 +1169,7 @@ button.dim:active:before {
   line-height: 20px;
   font-size: 12px;
   color: white;
-  font-family: Trebuchet, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif ;
   font-weight: bold;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -1994,7 +1994,7 @@ div.dt-button-info {
   line-height: 16px;
   font-size: 10px;
   color: white;
-  font-family: Trebuchet, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif ;
   font-weight: bold;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -2373,7 +2373,7 @@ div.dt-button-info {
   width: 100%;
   font-size: 0.75em;
   line-height: 1.333333em;
-  font-family: open sans, lucida grande, lucida sans unicode, helvetica, arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif ;
   padding: 5px;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -3035,7 +3035,7 @@ a.forum-item-title:hover {
   border-radius: 3px;
   background: #292929;
   color: white;
-  font-family: sans-serif, Verdana;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif ;
   font-size: smaller;
   padding: 5px;
 }
@@ -3477,7 +3477,7 @@ body.tour-open .animated {
   border-bottom: 1px solid #e7eaec;
 }
 body {
-  font-family: "open sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif ;
   background-color: #2f4050;
   font-size: 13px;
   color: #676a6c;
@@ -6830,7 +6830,7 @@ body.body-small .vote-icon {
 }
 body.landing-page {
   color: #676a6c;
-  font-family: 'Open Sans', helvetica, arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif ;
   background-color: #fff;
 }
 .landing-page {
@@ -6912,7 +6912,7 @@ body.landing-page {
 }
 .landing-page .navbar-default .nav li a {
   color: #fff;
-  font-family: 'Open Sans', helvetica, arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif ;
   font-weight: 700;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -8108,7 +8108,7 @@ body.skin-3 {
   background: transparent;
 }
 body.md-skin {
-  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif ;
   background-color: #ffffff;
 }
 .md-skin .nav-header {
@@ -8116,7 +8116,7 @@ body.md-skin {
 }
 .md-skin .label,
 .md-skin .badge {
-  font-family: 'Roboto';
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif ;
 }
 .md-skin ul.nav-second-level {
   background-color: inherit;
@@ -8174,10 +8174,10 @@ body.md-skin {
 }
 .md-skin #nestable-output,
 .md-skin #nestable2-output {
-  font-family: 'Roboto', lucida grande, lucida sans unicode, helvetica, arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif ;
 }
 .md-skin .landing-page {
-  font-family: 'Roboto', helvetica, arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif ;
 }
 .md-skin .landing-page.navbar-default.navbar-scroll {
   background-color: #fff !important;
@@ -8187,7 +8187,7 @@ body.md-skin {
   box-shadow: none;
 }
 .md-skin .landing-page.navbar-default .nav li a {
-  font-family: 'Roboto', helvetica, arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif ;
 }
 .md-skin .nav > li > a {
   color: #676a6c;
@@ -8358,7 +8358,7 @@ body.md-skin {
   padding: 20px 10px;
 }
 .md-skin.landing-page .navbar-default .nav li a {
-  font-family: 'Roboto', helvetica, arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif ;
 }
 .md-skin.landing-page .nav > li > a {
   padding: 25px 10px 15px 10px;
@@ -8628,6 +8628,38 @@ body.md-skin {
 .shadow{
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+
+
+
+/*Bitmanity Font*/
+@font-face {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif ;
+  src: url('bitmanity_font/Helvetica-Neue/helveticaneue-webfont.woff2') format('woff2'),
+  url('bitmanity_font/Helvetica-Neue/helveticaneue-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+.content_apple{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif ;
+}
+
+
+/*Summernote PlaceHolder*/
+
+/* Index section 1
+-------------------------------------------------- */
+.index-section-1 {
+  margin-bottom: 60px;
+  position: relative; }
+@media screen and (max-width: 1024px) { .index-section-1 { width: 96%; } }
+@media screen and (max-width: 767px) { .index-section-1 { width: 100%; margin-bottom: 0; } }
+.index-section-1 .placeholder { position: absolute; top: 90px; left: 95px; font-size: 34px; color: #e4e5e7; display: none; pointer-events: none; }
+.index-section-1 .placeholder:before { content: ""; display: inline-block; width: 3px; height: 40px; background-color: #53c3e8; position: absolute; left: -14px; top: 3px; }
+@media screen and (max-width: 767px) { .index-section-1 .placeholder { top: 140px; left: 20px; font-size: 24px; width: 90%; }
+  .index-section-1 .placeholder:before { top: 4px; left: -6px; height: 26px; } }
+
 
 
 

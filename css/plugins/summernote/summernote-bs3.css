@@ -24,6 +24,7 @@
 .note-editor audio:not([controls]) {
   display: none;
   height: 0;
+  border: none;
 }
 .note-editor [hidden],
 .note-editor template {
@@ -4815,6 +4816,8 @@ textarea.note-editor .input-group-sm > .input-group-btn > .btn {
   border-bottom: 1px solid transparent;
   border-top-right-radius: 3px;
   border-top-left-radius: 3px;
+  background-color: #ffffff;
+  padding-left: 0px;
 }
 .note-editor .panel-title {
   margin-top: 0;
